@@ -53,7 +53,7 @@
     ]
   },
   "dependencies": {
-    "@amcharts/amcharts4": "^4.10.18",
+    "@amcharts/amcharts4": "^4.10.28",
     "@amcharts/amcharts4-geodata": "^4.1.20",
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
